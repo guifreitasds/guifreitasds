@@ -48,7 +48,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: GUILHERME FREITAS](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-freitas-90209a233/)](https://www.linkedin.com/in/guilherme-freitas-90209a233/)
+[![Linkedin: GUILHERME FREITAS](https://img.shields.io/badge/-GUILHERME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-freitas-90209a233/)](https://www.linkedin.com/in/guilherme-freitas-90209a233/)
 [![Gmail Badge](https://img.shields.io/badge/-guilhermefsantos9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermefsantos9@gmail.com)](mailto:guilhermefsantos9@gmail.com)
 [![GitHub guifreitasds]( https://img.shields.io/github/followers/guifreitasds?label=follow&style=social)](https://github.com/guifreitasds)
 
