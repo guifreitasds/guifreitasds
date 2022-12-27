@@ -3,12 +3,12 @@
 
 ![](https://komarev.com/ghpvc/?username=guifreitasdss&color=006bed)
 
-<h3> 👨: &nbsp;Sobre mim </h3>
+<h3> 👨: &nbsp;About me</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciências da Computação** na UNINASSAU.
-- 💼 &nbsp; Atualmente, disponível ao mercado de trabalho
-- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento Mobile**.
+- 🤔 &nbsp; Exploring new tech's and developing software solutions!
+- 🎓 &nbsp; Studying **Computer Science** in UNINASSAU.
+- 💼 &nbsp; Currently, open to work.
+- 🌱 &nbsp; Learning more about **Mobile Development**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
