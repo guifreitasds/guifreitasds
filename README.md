@@ -45,6 +45,7 @@
 
 <a href="https://github.com/guifreitasds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifreitasds&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifreitasds&theme=dracula&layout=compact&langs_count=7" />
 </a>
 
 <br/>
