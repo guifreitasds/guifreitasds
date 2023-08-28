@@ -48,7 +48,7 @@
 <br/>
 
 <a href="https://github.com/guifreitasds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifreitasds&show_icons=true&tbg_color=0d1117&title_color=017aaf&text_color=017aaf&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifreitasds&show_icons=true&tbg_color=0d1117&title_color=017aaf&text_color=c9d1d9&count_private=true&hide_border=true&icon_color=017aaf" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifreitasds&theme=dracula&layout=compact&langs_count=7" />
 </a>
 
