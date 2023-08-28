@@ -49,7 +49,7 @@
 
 <a href="https://github.com/guifreitasds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifreitasds&show_icons=true&count_private=true&hide_border=true&title_color=017aaf&icon_color=017aaf&text_color=c9d1d9&bg_color=0d1117" alt=%22Guilherme%20Freitas%20github%20stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifreitasds&layout=compact&langs_count=7&title_color=017aaf&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifreitasds&layout=compact&langs_count=7&title_color=017aaf&bg_color=0d1117&hide_border=true" />
 </a>
 
 <br/>
