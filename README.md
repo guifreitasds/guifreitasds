@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=017aaf&size=35&center=true&vCenter=true&width=1000&lines=Prazer!+Meu+nome+%C3%A9+Guilherme+Freitas;Tenho+18+anos;Atualmente+estou+estudando;Seja+bem-vindo!+:%29)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=017aaf&height=120&section=header"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=017aaf&size=35&center=true&vCenter=true&width=1000&lines=Prazer!+Meu+nome+%C3%A9+Guilherme+Freitas;Tenho+18+anos;Atualmente+estou+estudando;Seja+bem-vindo!+;%29)
 
 
 ![](https://komarev.com/ghpvc/?username=guifreitasdss&color=017aaf)
