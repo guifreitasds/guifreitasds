@@ -18,18 +18,16 @@
 
   <div align="center" style="display: inline-block">
     <br>
-    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=007ACC)
-    ![Django](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite&logoColor=007396)
-    ![SQLite](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-    ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=007ACC)
-    ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-    ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-    ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+    <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+    <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
 
 
