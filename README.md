@@ -16,7 +16,7 @@
 
 **Aplicações e Dados**
 
-  <div align="center" style="display: inline-block">
+  <div align="center" style="display: inline-block; background-color: #1A222E;">
     <br>
     <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
