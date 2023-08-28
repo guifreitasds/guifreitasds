@@ -60,4 +60,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-guilhermefsantos9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermefsantos9@gmail.com)](mailto:guilhermefsantos9@gmail.com)
 [![GitHub guifreitasds]( https://img.shields.io/github/followers/guifreitasds?label=follow&style=social)](https://github.com/guifreitasds)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=017aaf&height=120&section=footer"/>
 
