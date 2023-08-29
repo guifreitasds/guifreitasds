@@ -9,9 +9,9 @@
 - 💼 &nbsp; Currently, open to work.
 - 🌱 &nbsp; Learning more about **Mobile Development**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Application and Data**
 
   <div align="center" style="display: inline-block;">
     <br>
@@ -40,7 +40,7 @@
 
 <hr>
 
-**Ferramentas de Desenvolvimento**
+**DevTools**
 
   <div align="center" style="display: inline-block;">
     <br>
