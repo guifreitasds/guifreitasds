@@ -2,12 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=017aaf&size=35&center=true&vCenter=true&width=1200&size=35&lines=Prazer!+Meu+nome+%C3%A9+Guilherme+Freitas;Tenho+18+anos;Atualmente+estou+estudando;Seja+bem-vindo!+:%29)
 
-<h3> 👨: &nbsp;About me</h3>
-
-- 🤔 &nbsp; Exploring new tech's and developing software solutions!
-- 🎓 &nbsp; Studying **Computer Science** in UNINASSAU.
-- 💼 &nbsp; Currently, open to work.
-- 🌱 &nbsp; Learning more about **Mobile Development**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
